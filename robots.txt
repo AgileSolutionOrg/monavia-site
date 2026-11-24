@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://monavia.com.br
+Sitemap: https://monavia.com.br/sitemap.xml
